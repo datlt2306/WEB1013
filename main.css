@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+}
+img {
+    max-width: 100%;
+}
+.container {
+    margin: auto;
+    width: 960px;
+    border: 1px solid #000;
+}
+.header {
+    text-align: center;
+    padding: 20px 10px;
+}
+.menu {
+    background: yellow;
+}
+.menu__link {
+    color: #000;
+}
+
+/* color name: black
+    hex color code: #000000
+*/
+/* inline - block */
